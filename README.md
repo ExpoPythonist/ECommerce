@@ -1,4 +1,4 @@
-# Visitors Management with Django
+# ECommerce with Django
 This application was built as a side project, I used Django mainly, to develop this application.
 
 
